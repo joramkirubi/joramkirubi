@@ -1,7 +1,7 @@
 <!-- README for https://github.com/Joramcoder -->
 
 <h1 align="center">Hi there 👋, I'm Joram Kimani</h1>
-<h3 align="center">A Passionate Backend Developer | Software Engineering</h3>
+<h3 align="center">A Passionate Backend Developer | Software Engineering| AI Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Transforming+Ideas+Into+Impactful+Solutions;Backend+Developer+%7C+Builder+%7C+Dreamer+%F0%9F%92%BB" alt="Typing SVG" />
