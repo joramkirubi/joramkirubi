@@ -37,11 +37,11 @@ Currently sharpening my skills through the **ALX Software Engineering Program** 
 ```bash
 Languages        → Python, JavaScript, SQL, Bash
 Backend          → Django, Flask, FastAPI
-Databases        → PostgreSQL, MySQL, SQLite
+Databases        → PostgreSQL, MySQL, SQLite, Microsoft SQL Server
 Tools            → Git, Docker, Linux, REST APIs
 Testing          → Pytest, Unit Testing, Postman
-AI/ML            → OpenAI, LangChain, RAG Systems
-Frontend (Basic) → HTML, CSS, Bootstrap
+AI/ML            → OpenAI, LangChain, LangGraph, RAG, MCP, SDKs
+Frontend (Basic) → HTML, CSS, Bootstrap, Tailwind
 ```
 
 ---
