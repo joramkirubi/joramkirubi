@@ -86,8 +86,11 @@ To use **technology + AI** to:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joramcoder&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joramcoder&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joramkirubi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joramkirubi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
