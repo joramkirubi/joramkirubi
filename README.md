@@ -40,7 +40,7 @@ Backend          → Django, Flask, FastAPI
 Databases        → PostgreSQL, MySQL, SQLite, Microsoft SQL Server
 Tools            → Git, Docker, Linux, REST APIs
 Testing          → Pytest, Unit Testing, Postman
-AI/ML            → OpenAI, LangChain, LangGraph, RAG, MCP, SDKs
+AI/ML            → OpenAI, LangChain, LangGraph, RAG, MCP, SDKs, N8N
 Frontend (Basic) → HTML, CSS, Bootstrap, Tailwind
 ```
 
