@@ -1,40 +1,104 @@
 <!-- README for https://github.com/Joramcoder -->
 
-<h1 align="center">Hi there 👋, I'm Joram Kimani</h1>
-<h3 align="center">A Passionate Backend Developer | Software Engineering| AI Automation</h3>
+<h1 align="center">Joram Kimani</h1>
+<h3 align="center">Backend Engineer • AI Systems Builder • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Transforming+Ideas+Into+Impactful+Solutions;Backend+Developer+%7C+Builder+%7C+Dreamer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=I+build+systems+that+solve+real+problems;Backend+%7C+AI+%7C+Automation;From+idea+to+scalable+product" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who I Am
 
-I’m a dedicated **Backend Developer** and an active learner in the **ALX Software Engineering Program**, passionate about creating meaningful software solutions.
+I’m a backend-focused engineer passionate about building **scalable systems, AI-powered tools, and real-world solutions**.
 
-✨ I started this journey because I’m inspired by how **technology is reshaping our world** — from apps that simplify lives to AI that enhances decision-making.
+I don’t just write code — I design systems that:
 
-🎯 My mission is to:
-- Use **technology & innovation** to **solve real-world problems**
-- **Create opportunities** through automation and smart systems
-- Make a **lasting impact** through meaningful, scalable solutions
+* Solve meaningful problems
+* Scale with users
+* Create real impact
 
-👨‍💻 I'm excited to build projects in:
-- 🔧 Backend APIs & automation tools
-- 🤖 AI-powered chatbots and platforms
-- 📊 Data-driven applications
-- 🌍 Solutions for education, finance, agriculture, and communities
+Currently sharpening my skills through the **ALX Software Engineering Program** while building practical, production-style projects.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 What I’m Focused On
 
-```markdown
-🖥️ Languages        : Python | JavaScript | Bash | SQL
-🧰 Backend Frameworks: Flask | Django | FastAPI
-🧪 Testing Tools     : Postman | Pytest | Unit Tests
-🗃️ Databases         : MySQL | PostgreSQL | SQLite
-📦 Tools & Platforms : Git | GitHub | Docker | Linux | Shell
-🌍 Frontend Basics   : HTML | CSS | Bootstrap
-🧠 AI/ML Interest    : OpenAI | LangChain | Prompt Engineering
+* 🔧 Backend systems & API architecture
+* 🤖 AI-powered applications (RAG, automation, assistants)
+* 📊 Data-driven systems & pipelines
+* ⚡ Building products, not just projects
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+Languages        → Python, JavaScript, SQL, Bash
+Backend          → Django, Flask, FastAPI
+Databases        → PostgreSQL, MySQL, SQLite
+Tools            → Git, Docker, Linux, REST APIs
+Testing          → Pytest, Unit Testing, Postman
+AI/ML            → OpenAI, LangChain, RAG Systems
+Frontend (Basic) → HTML, CSS, Bootstrap
+```
+
+---
+
+## 🧪 Current Projects
+
+🔹 AI Assistant Platform
+→ AI advisor, analytics, health scoring system
+
+🔹 RAG Medical Assistant
+→ Context-aware AI for health-related queries
+
+🔹 Automation Tools
+→ Backend scripts & systems to reduce manual work
+
+*(More coming — I build consistently)*
+
+---
+
+## 📈 Growth Journey
+
+* 🎯 Transitioning into **Data Engineering**
+* ⚙️ Learning **ETL pipelines, big data systems**
+* 📚 Focused on mastering:
+
+  * SQL
+  * Python
+  * System design
+
+---
+
+## 🌍 Vision
+
+To use **technology + AI** to:
+
+* Solve real problems in **Africa and beyond**
+* Create **opportunities through systems**
+* Build tools that **actually matter**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joramcoder&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joramcoder&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 Open to collaboration on meaningful projects
+* 🚀 Always building, always improving
+
+---
+
+<p align="center">
+  <i>"Build things that matter."</i>
+</p>
