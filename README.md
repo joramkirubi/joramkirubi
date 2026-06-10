@@ -46,18 +46,33 @@ Frontend (Basic) → HTML, CSS, Bootstrap
 
 ---
 
-## 🧪 Current Projects
+## 🧪 Current Work
 
-🔹 AI Assistant Platform
-→ AI advisor, analytics, health scoring system
+🔹 **AI Assistant Platform**  
+→ AI-driven system combining analytics, advisory intelligence, and health scoring for structured decision-making
 
-🔹 RAG Medical Assistant
-→ Context-aware AI for health-related queries
+🔹 **RAG Medical Assistant**  
+→ Retrieval-augmented generation system for answering domain-specific (medical) queries using contextual data sources
 
-🔹 Automation Tools
-→ Backend scripts & systems to reduce manual work
+🔹 **Backend Automation Systems**  
+→ Services and scripts designed to automate backend workflows and reduce manual operations
 
-*(More coming — I build consistently)*
+---
+
+## 🤖 Systems I Am Actively Building
+
+I am currently building and experimenting with **AI agent systems, data pipelines, and scalable backend applications**, including:
+
+- AI agent workflows for task automation and decision support  
+- Data processing pipelines for structured and unstructured data  
+- Backend systems designed for scalability and real-world deployment  
+- Application-level systems integrating AI, APIs, and automation  
+
+---
+
+## 💡 One-line positioning
+
+I build **AI agents, backend systems, and data pipelines focused on real-world scalability and automation.**
 
 ---
 
